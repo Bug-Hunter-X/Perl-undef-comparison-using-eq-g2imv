@@ -1,0 +1,1 @@
+This repository contains a Perl script demonstrating an uncommon error related to undef comparisons. The script showcases the incorrect usage of 'eq' to check for undef values and provides a corrected solution.  Understanding this subtlety is vital for writing robust and reliable Perl code.
